@@ -1,31 +1,62 @@
 <img align="center" alt="coding" width="1000" 
-  src="417028981_1330670034315677_8158937925295529830_n (1).jpg">
+  src="422692716_948207289974898_4393159025911298467_n.gif">
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">Ivan Russ Oxillo</h1>
-<h2 align="center"> Mechatronics Engineering Student </h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ivan+Russ+Oxillo!;" />
+</h1>
 
+<h3 align="center">A  Mechatronics Engineering student </h3>
+
+<br/>
+
+<div align="left">
 
 <img align="right" alt="coding" width="450" lenght="750" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif">
+ 
+ 🔭 I’m currently working on **my project**
+ 
+ 🌱 I’m currently learning **Robotics 2**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srvntwrrior&label=Profile%20views&color=0e75b6&style=flat" alt="srvntwrrior" /> </p>
-
-- 🔭 I’m currently working on my skill does
-- 🌱 I’m currently learning Robotics 2
-- 🤔 I’m looking for help with my projects
-- 💬 Ask me about how collage life is
-- 📫 How to reach me: oxilloivanruss@gmail.com
-- ⚡ Fun fact: ...
-   
+💬 Ask me about **what college life is**
 
 
-<h3 align="left">Connect with me?:</h3>
+ </div>
+
+ <h3 align="left">Connect with me?:</h3>
 <p align="left">
-<a href="https://www.facebook.com/ivanruss.oxillo.3?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Ivan Russ" height="40" width="40" /></a>
-<a href="https://www.instagram.com/ivanrussoxillo?igsh=MXQ5ZzZ2MWt3MWhoYg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan russ" height="40" width="40" /></a>
-</p>
+<a href="https://www.facebook.com/ivanruss.oxillo.3?mibextid=ZbWKwL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Ivan Russ" height="40" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+</p>
+ <hr/>
+ 
+
+<br/>
+<hr/>
+
+<div align="center">
+  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<br/>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenziruss&show_icons=true&locale=en&layout=compact" alt="kenziruss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzirus&show_icons=true&locale=en" alt="kenziruss" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenziruss&" alt="kenziruss" /></p>">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenziruss&label=Profile%20views&color=0e75b6&style=flat" alt="kenziruss" /> </p>
+<br/>
+
